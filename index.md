@@ -26,5 +26,4 @@ My first milestone was wiring all my stuff together.
 
 ![L298N-Motor-Driver-Module-Pinout](https://user-images.githubusercontent.com/16635834/127701205-7593a203-4070-4dd8-8f7b-1576185bc1a5.png)
 
-
-[![Milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1626728291/video_to_markdown/images/youtube--I83nSq2WgB8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/I83nSq2WgB8 "Milestone 2")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I83nSq2WgB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
