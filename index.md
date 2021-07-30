@@ -1,4 +1,4 @@
-﻿# Cool BSE Project
+﻿# My Project Name Here
  
 This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
 
@@ -22,8 +22,9 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 # First Milestone
 
-My first milestone was wiring this component and doing some code
-![L298N-Motor-Driver-Module-Pinout](https://user-images.githubusercontent.com/16635834/127681622-dbc89db8-c652-48c5-b071-2dafdb7af391.png)
+My first milestone was wiring all my stuff together.
+
+![L298N-Motor-Driver-Module-Pinout](https://user-images.githubusercontent.com/16635834/127701205-7593a203-4070-4dd8-8f7b-1576185bc1a5.png)
 
 
-[![Milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1627061304/video_to_markdown/images/youtube--NLGcuUZfCAQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/NLGcuUZfCAQ "Milestone 2")
+[![Milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1626728291/video_to_markdown/images/youtube--I83nSq2WgB8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/I83nSq2WgB8 "Milestone 2")
