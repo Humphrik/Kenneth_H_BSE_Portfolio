@@ -2,9 +2,6 @@
  
 This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
 
-## LINK TO SECOND PAGE
-<a href="secondpage.md">Page 2</a>
-
 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
